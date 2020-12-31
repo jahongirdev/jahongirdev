@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **jahonmur88@gmail.com**
 
-- ⚡ Fun fact **I listen to songs!**
+- ⚡ Fun fact **I listen to 10-15 songs at once**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -28,7 +28,6 @@
 <a href="https://fb.com/jahongirdev" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="jahongirdev" height="30" width="40" /></a>
 <a href="https://instagram.com/jahongirdev" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="jahongirdev" height="30" width="40" /></a>
 <a href="https://www.youtube.com/channel/ucwg7_qykij31vee93gzf52q" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="https://www.youtube.com/channel/ucwg7_qykij31vee93gzf52q" height="30" width="40" /></a>
-  <a href="https://t.me/jahongirdev" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg" alt="jahongirdev" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
