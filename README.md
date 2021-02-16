@@ -11,9 +11,9 @@
 
 - 🔭 I’m currently working on **BeFreelancer**
 
-- 🌱 I’m currently learning **React.js**
+- 🌱 I’m currently learning **Javascript(Libraries, Frameworks)**
 
-- 👯 I’m looking to collaborate on **Youtube**
+- 👯 I’m looking to collaborate on **YouTube**
 
 - 🤝 I’m looking for help with **web documentations**
 
