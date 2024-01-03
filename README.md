@@ -9,7 +9,7 @@
 [![Website Badge](https://img.shields.io/badge/-Website-c14438?style=flat&logo=Google-Chrome&logoColor=white&link=jahongirdev.netlify.app)](jahongirdev.netlify.app)
 [![Github](https://img.shields.io/github/followers/jahongirdev?label=Follow&style=social)](https://github.com/jahongirdev)
 
-- 💻 Frontend developer from Uzbekistan / 17 y.o.
+- 💻 Frontend developer from Uzbekistan / 18 y.o.
 - 🤔 I’m currently reading Frontend technologies
 - 📫 How to reach me: jahongirdev99@gmail.com
 
