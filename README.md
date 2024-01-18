@@ -10,7 +10,7 @@
 [![Github](https://img.shields.io/github/followers/jahongirdev?label=Follow&style=social)](https://github.com/jahongirdev)
 
 - 💻 Frontend developer from Uzbekistan / 18 y.o.
-- 🤔 I’m currently reading Frontend technologies
+- 😎 I’m currently learning Frontend technologies
 - 📫 How to reach me: jahongirdev99@gmail.com
 
 
