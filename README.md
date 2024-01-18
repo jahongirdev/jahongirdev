@@ -21,10 +21,3 @@
 
 ![Bootstrap](https://img.shields.io/badge/-HTML5-05122A?style=flat&logo=HTML5&color=353535) ![Bootstrap](https://img.shields.io/badge/-CSS3-05122A?style=flat&logo=CSS3&color=353535) ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=Bootstrap&color=353535) ![Bootstrap](https://img.shields.io/badge/-Javascript-05122A?style=flat&logo=Javascript&color=353535) ![Bootstrap](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=Visual-Studio-Code&color=353535)
 
-<div>
-  <img width="100%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jahongirdev&show_icons=true&locale=en&layout=compact" alt="jahongirdev" />
-</div>
-
-<div>
-  <img width="100%"  src="https://github-readme-streak-stats.herokuapp.com/?user=jahongirdev&" alt="jahongirdev" />
-</div>
